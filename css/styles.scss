@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic:wght@300;400;500;700;900&display=swap');
+
+$family-zen_maru: 'Zen Maru Gothic', sans-serif;
+
+html {
+  font-size: 16px;
+}
+body {
+  font-family: $family-zen_maru;
+}
+
+
